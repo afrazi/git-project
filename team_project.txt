@@ -8,3 +8,4 @@ Feature A implemented
 
 Feature B implemented
 
+a small change in feature-rebase branch
